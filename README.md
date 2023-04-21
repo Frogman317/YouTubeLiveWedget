@@ -1,1 +1,2 @@
 # YouTubeLiveWedget
+YouTubeの配信中の情報をAndroidのウィジットで見れるようにする
